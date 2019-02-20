@@ -1,5 +1,4 @@
   (function() {
-    console.log("Visitor chat script');
     var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
     se.src = '//storage.googleapis.com/snapabug-hr-staging/js/36db38bd-8855-4729-b20c-7d824244aef7.js';
     var done = false;
