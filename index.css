@@ -977,3 +977,10 @@ there.
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {
 }
+
+.headerTitle {
+  text-align: center;
+}
+.mainImage {
+  width: 100%
+}
